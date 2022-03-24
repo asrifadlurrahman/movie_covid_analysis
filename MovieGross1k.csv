@@ -1,0 +1,323 @@
+Movie;Month;Year;Distributor;Genre;Gross;Opening_Gross;Ticket_Sold
+12 Strong;01;2018;Warner Bros.;Drama;45819713.0;15815025.0;5029606.0
+Den of Thieves;01;2018;STX Entertainment;Action;44947622.0;15206108.0;4933877.0
+Insidious: The Last Key;01;2018;Universal;Horror;67745330.0;29581355.0;7436370.0
+Maze Runner: The Death Cure;01;2018;20th Century Fox;Action;58032443.0;24167011.0;6370191.0
+Paddington 2;01;2018;Warner Bros.;Adventure;40891591.0;11001961.0;4488649.0
+The Commuter;01;2018;Lionsgate;Action;36343858.0;13701452.0;3989447.0
+Annihilation;02;2018;Paramount Pictures;Thriller/Suspense;32732301.0;11071584.0;3593008.0
+Black Panther;02;2018;Walt Disney;Action;700059566.0;202003951.0;76845177.0
+Fifty Shades Freed;02;2018;Universal;Drama;100407760.0;38560195.0;11021708.0
+Game Night;02;2018;Warner Bros.;Comedy;69179066.0;17005332.0;7593750.0
+Peter Rabbit;02;2018;Sony Pictures;Adventure;115234093.0;25010928.0;12649186.0
+The 15:17 to Paris;02;2018;Warner Bros.;Drama;36276286.0;12554286.0;3982029.0
+Winchester;02;2018;CBS Films;Horror;25091816.0;9307626.0;2754316.0
+A Wrinkle in Time;03;2018;Walt Disney;Adventure;100478608.0;33123609.0;11029484.0
+Acrimony;03;2018;Lionsgate;Thriller/Suspense;43549096.0;17170707.0;4780362.0
+Death Wish;03;2018;MGM;Action;34017028.0;13010267.0;3734031.0
+I Can Only Imagine;03;2018;Roadside Attractions;Drama;83482352.0;17108914.0;9163814.0
+Isle of Dogs;03;2018;Fox Searchlight;Adventure;32015231.0;1620294.0;3514295.0
+Love, Simon;03;2018;20th Century Fox;Drama;40826341.0;11756244.0;4481486.0
+Pacific Rim: Uprising;03;2018;Universal;Action;59874525.0;28116535.0;6572396.0
+Ready Player One;03;2018;Warner Bros.;Adventure;137690172.0;41769050.0;15114179.0
+Red Sparrow;03;2018;20th Century Fox;Thriller/Suspense;46874505.0;16853422.0;5145390.0
+Sherlock Gnomes;03;2018;Paramount Pictures;Adventure;43242871.0;10604774.0;4746748.0
+The Strangers: Prey at Night;03;2018;Aviron Pictures;Horror;24431472.0;10402271.0;2681830.0
+Tomb Raider;03;2018;Warner Bros.;Action;58250803.0;23633317.0;6394161.0
+A Quiet Place;04;2018;Paramount Pictures;Horror;188024361.0;50203562.0;20639337.0
+Avengers: Infinity War;04;2018;Walt Disney;Action;678815482.0;257698183.0;74513225.0
+Blockers;04;2018;Universal;Comedy;60311495.0;20556350.0;6620362.0
+I Feel Pretty;04;2018;STX Entertainment;Comedy;48795601.0;16030218.0;5356267.0
+Rampage;04;2018;Warner Bros.;Action;101028233.0;35753093.0;11089817.0
+Super Troopers 2;04;2018;20th Century Fox;Comedy;30617396.0;15181624.0;3360856.0
+Truth or Dare;04;2018;Universal;Thriller/Suspense;41411015.0;18667855.0;4545666.0
+Book Club;05;2018;Paramount Pictures;Romantic Comedy;68566296.0;13582231.0;7526487.0
+Breaking In;05;2018;Universal;Thriller/Suspense;46840590.0;17630285.0;5141667.0
+Deadpool 2;05;2018;20th Century Fox;Action;324591735.0;125507153.0;35621600.0
+Life of the Party;05;2018;Warner Bros.;Comedy;53059911.0;17886075.0;5824359.0
+Overboard;05;2018;Lionsgate;Romantic Comedy;50316123.0;14711101.0;5523175.0
+Solo: A Star Wars Story;05;2018;Walt Disney;Adventure;213767512.0;84420489.0;23465149.0
+Adrift;06;2018;STX Entertainment;Drama;31445011.0;11603039.0;3451702.0
+Hereditary;06;2018;A24;Horror;44069456.0;13575173.0;4837481.0
+Incredibles 2;06;2018;Walt Disney;Adventure;608581744.0;182687905.0;66803704.0
+Jurassic World: Fallen Kingdom;06;2018;Universal;Action;417719760.0;148024610.0;45852883.0
+Ocean’s 8;06;2018;Warner Bros.;Action;140218711.0;41607378.0;15391736.0
+Sicario: Day of the Soldado;06;2018;Sony Pictures;Action;50065850.0;19007566.0;5495702.0
+Tag;06;2018;Warner Bros.;Comedy;54730625.0;14947396.0;6007752.0
+Uncle Drew;06;2018;Lionsgate;Comedy;42469946.0;15242781.0;4661904.0
+Ant-Man and the Wasp;07;2018;Walt Disney;Action;216648740.0;75812205.0;23781420.0
+Mamma Mia: Here We Go Again!;07;2018;Universal;Musical;120634935.0;34952180.0;13242034.0
+Mission: Impossible—Fallout;07;2018;Paramount Pictures;Action;220159104.0;61236534.0;24166751.0
+Skyscraper;07;2018;Universal;Action;68420120.0;24905015.0;7510441.0
+Teen Titans Go! To The Movies;07;2018;Warner Bros.;Adventure;29790236.0;10411189.0;3270059.0
+The Equalizer 2;07;2018;Sony Pictures;Action;102084362.0;36011640.0;11205747.0
+The First Purge;07;2018;Universal;Horror;69488745.0;17374280.0;7627744.0
+Alpha;08;2018;Sony Pictures;Adventure;35851379.0;10352512.0;3935387.0
+BlacKkKlansman;08;2018;Focus Features;Black Comedy;49275340.0;10845330.0;5326846.0
+Christopher Robin;08;2018;Walt Disney;Adventure;99215042.0;24585139.0;10890783.0
+Crazy Rich Asians;08;2018;Warner Bros.;Romantic Comedy;174532921.0;26510140.0;19156897.0
+Mile 22;08;2018;STX Entertainment;Action;36108758.0;13710825.0;3963639.0
+Searching;08;2018;Sony Pictures;Thriller/Suspense;26015149.0;388769.0;2855669.0
+Slender Man;08;2018;Sony Pictures;Horror;30564825.0;11371866.0;3355085.0
+The Meg;08;2018;Warner Bros.;Action;145443742.0;45402195.0;15965285.0
+The Spy Who Dumped Me;08;2018;Lionsgate;Comedy;33562069.0;12103043.0;3684091.0
+A Simple Favor;09;2018;Lionsgate;Thriller/Suspense;53548586.0;16011689.0;5878001.0
+Night School;09;2018;Universal;Comedy;77339130.0;27257615.0;8487001.0
+Peppermint;09;2018;STX Entertainment;Action;35418723.0;13423255.0;3887894.0
+Smallfoot;09;2018;Warner Bros.;Adventure;83240103.0;23045635.0;9108301.0
+The Nun;09;2018;Warner Bros.;Horror;117450119.0;53807379.0;12892439.0
+The Predator;09;2018;20th Century Fox;Action;51024708.0;24632284.0;5600956.0
+White Boy Rick;09;2018;Sony Pictures;Drama;24004833.0;8860431.0;2634998.0
+A Star is Born;10;2018;Warner Bros.;Drama;215288866.0;42908051.0;22080997.0
+First Man;10;2018;Universal;Drama;44936545.0;16006065.0;4931178.0
+Halloween;10;2018;Universal;Horror;159366015.0;76221545.0;17490835.0
+The Hate U Give;10;2018;20th Century Fox;Drama;29719483.0;512035.0;3256712.0
+Venom;10;2018;Sony Pictures;Action;213511408.0;80255756.0;23428006.0
+Bohemian Rhapsody;11;2018;20th Century Fox;Drama;216303339.0;51061119.0;20835690.0
+Creed II;11;2018;MGM;Drama;115715889.0;35574710.0;12343416.0
+Dr. Seuss’ The Grinch;11;2018;Universal;Adventure;270834950.0;67572855.0;29229463.0
+Green Book;11;2018;Universal;Comedy;85080171.0;320429.0;3529418.0
+Instant Family;11;2018;Paramount Pictures;Comedy;67363237.0;14504315.0;7118003.0
+Nobody’s Fool;11;2018;Paramount Pictures;Drama;31713110.0;13743111.0;3481132.0
+Overlord;11;2018;Paramount Pictures;Action;21704844.0;10202108.0;2382530.0
+Ralph Breaks The Internet;11;2018;Walt Disney;Adventure;201091711.0;56237634.0;20543654.0
+Robin Hood;11;2018;Lionsgate;Action;30824628.0;9195670.0;3363887.0
+The Favourite;11;2018;Fox Searchlight;Black Comedy;34366783.0;422410.0;2017283.0
+Widows;11;2018;20th Century Fox;Thriller/Suspense;42402632.0;12361307.0;4599799.0
+Aquaman;12;2018;Warner Bros.;Action;335061807.0;67873522.0;21850694.0
+Bumblebee;12;2018;Paramount Pictures;Adventure;127195589.0;21654047.0;7840408.0
+Holmes & Watson;12;2018;Sony Pictures;Comedy;30568743.0;7411522.0;3107985.0
+Mary Poppins Returns;12;2018;Walt Disney;Musical;171958438.0;23523121.0;15237899.0
+On the Basis of Sex;12;2018;Focus Features;Drama;24704837.0;686355.0;2505029.0
+Second Act;12;2018;STX Entertainment;Comedy;39282227.0;6489983.0;3599601.0
+The Mule;12;2018;Warner Bros.;Drama;103804407.0;17509431.0;7104318.0
+Vice;12;2018;Annapurna Pictures;Black Comedy;47836282.0;7768371.0;3263172.0
+A Dog’s Way Home;01;2019;Sony Pictures;Drama;41952715.0;11251263.0;4579990.0
+Dragon Ball Super: Broly;01;2019;FUNimation;Action;30376755.0;9816197.0;3316239.0
+Escape Room;01;2019;Sony Pictures;Horror;57000756.0;18238172.0;4231723.0
+Glass;01;2019;Universal;Thriller/Suspense;111048468.0;40328920.0;12123195.0
+Just Mercy;01;2019;Warner Bros.;Drama;36001502.0;107858.0;3896796.0
+The Upside;01;2019;STX Entertainment;Comedy;108235497.0;20355000.0;11816102.0
+Alita: Battle Angel;02;2019;20th Century Fox;Action;85838210.0;28525613.0;9357009.0
+Cold Pursuit;02;2019;Lionsgate;Thriller/Suspense;32138862.0;11030233.0;3508609.0
+Fighting With My Family;02;2019;MGM;Comedy;22958583.0;138780.0;2506395.0
+Happy Death Day 2U;02;2019;Universal;Thriller/Suspense;28148130.0;9497665.0;3072940.0
+Isn’t it Romantic;02;2019;Warner Bros.;Romantic Comedy;48791187.0;14247758.0;5326549.0
+What Men Want;02;2019;Paramount Pictures;Romantic Comedy;54611903.0;18232087.0;5961998.0
+Captain Marvel;03;2019;Walt Disney;Action;426829839.0;153433423.0;46597144.0
+Dumbo;03;2019;Walt Disney;Adventure;114766307.0;45990748.0;12529073.0
+Five Feet Apart;03;2019;Lionsgate;Drama;45729221.0;13190286.0;4992273.0
+Us;03;2019;Universal;Thriller/Suspense;175084580.0;71117625.0;19114037.0
+Wonder Park;03;2019;Paramount Pictures;Adventure;45216793.0;15853646.0;4936331.0
+Avengers: Endgame;04;2019;Walt Disney;Action;858373000.0;357115007.0;93708843.0
+Breakthrough;04;2019;20th Century Fox;Drama;40713082.0;11282333.0;4444659.0
+Hellboy;04;2019;Lionsgate;Horror;21903748.0;12045147.0;2391238.0
+Little;04;2019;Universal;Comedy;40860481.0;15405455.0;4460751.0
+Pet Sematary;04;2019;Paramount Pictures;Horror;54724696.0;24502775.0;5974311.0
+Shazam!;04;2019;Warner Bros.;Action;140371656.0;53505326.0;15324417.0
+The Curse of La Llorona;04;2019;Warner Bros.;Horror;54733739.0;26347631.0;5975299.0
+A Dog’s Journey;05;2019;Universal;Drama;22782371.0;8030085.0;2487158.0
+Aladdin;05;2019;Walt Disney;Adventure;355559216.0;91500929.0;38816508.0
+Booksmart;05;2019;United Artists;Comedy;22680962.0;6933620.0;2476087.0
+Godzilla: King of the Monsters;05;2019;Warner Bros.;Action;110500138.0;47776293.0;12063334.0
+Long Shot;05;2019;Lionsgate;Romantic Comedy;30316271.0;9740064.0;3309636.0
+MA;05;2019;Universal;Horror;45896028.0;18099805.0;5010483.0
+Pokémon: Detective Pikachu;05;2019;Warner Bros.;Adventure;144105346.0;54365242.0;15732025.0
+Rocketman;05;2019;Paramount Pictures;Drama;96368160.0;25725722.0;10520541.0
+The Hustle;05;2019;United Artists;Comedy;35417038.0;13007709.0;3866488.0
+The Intruder;05;2019;Sony Pictures;Thriller/Suspense;35388976.0;10855054.0;3863425.0
+Annabelle Comes Home;06;2019;Warner Bros.;Horror;74152591.0;20269723.0;8095261.0
+Child’s Play;06;2019;United Artists;Horror;29208403.0;14094594.0;3188690.0
+Dark Phoenix;06;2019;20th Century Fox;Action;65845974.0;32828348.0;7188425.0
+Men in Black: International;06;2019;Sony Pictures;Adventure;80001807.0;30035838.0;8733821.0
+Shaft;06;2019;Warner Bros.;Comedy;21360215.0;8901419.0;2331901.0
+The Secret Life of Pets 2;06;2019;Universal;Adventure;158874395.0;46652680.0;17344366.0
+Toy Story 4;06;2019;Walt Disney;Adventure;434038008.0;120908065.0;47384062.0
+Yesterday;06;2019;Universal;Romantic Comedy;73286650.0;17010050.0;8000726.0
+Crawl;07;2019;Paramount Pictures;Horror;39014193.0;12005210.0;4259191.0
+Midsommar;07;2019;A24;Horror;27426363.0;6560030.0;2994144.0
+Spider-Man: Far From Home;07;2019;Sony Pictures;Action;390532085.0;92579212.0;42634507.0
+Stuber;07;2019;20th Century Fox;Comedy;22370452.0;8225384.0;2442189.0
+The Lion King;07;2019;Walt Disney;Adventure;543638043.0;191770759.0;59349131.0
+47 Meters Down: Uncaged;08;2019;Entertainment Stu…;Horror;22260900.0;8427265.0;2430229.0
+Angel Has Fallen;08;2019;Lionsgate;Thriller/Suspense;69030436.0;21380987.0;7536073.0
+Dora and the Lost City of Gold;08;2019;Paramount Pictures;Adventure;60477943.0;17431588.0;6602395.0
+Good Boys;08;2019;Universal;Comedy;83140306.0;21402605.0;9076453.0
+Overcomer;08;2019;Sony Pictures;Drama;34700142.0;8146533.0;3788225.0
+Ready or Not;08;2019;Fox Searchlight;Black Comedy;28714231.0;8015590.0;3134741.0
+The Angry Birds Movie 2;08;2019;Sony Pictures;Adventure;41657076.0;10354073.0;4547715.0
+The Art of Racing in the Rain;08;2019;20th Century Fox;Drama;26402818.0;8137584.0;2882403.0
+The Peanut Butter Falcon;08;2019;Roadside Attractions;Adventure;20457158.0;204793.0;2233314.0
+Abominable;09;2019;Universal;Adventure;60761390.0;20612100.0;6624374.0
+Ad Astra;09;2019;20th Century Fox;Thriller/Suspense;50188370.0;19001398.0;5479079.0
+Downton Abbey;09;2019;Focus Features;Drama;96853865.0;31033665.0;10573566.0
+Hustlers;09;2019;STX Entertainment;Drama;104963598.0;33181361.0;11458841.0
+It: Chapter Two;09;2019;Warner Bros.;Horror;211593228.0;91062152.0;23099697.0
+Judy;09;2019;Roadside Attractions;Drama;24319961.0;2916548.0;2623117.0
+Rambo: Last Blood;09;2019;Lionsgate;Action;44819352.0;18872919.0;4892942.0
+Black and Blue;10;2019;Sony Pictures;Action;22012729.0;8376846.0;2403136.0
+Countdown;10;2019;STX Entertainment;Horror;25621766.0;8865082.0;2796704.0
+Gemini Man;10;2019;Paramount Pictures;Action;48546770.0;20552372.0;5299865.0
+Jojo Rabbit;10;2019;Fox Searchlight;Black Comedy;33370906.0;349555.0;2355846.0
+Joker;10;2019;Warner Bros.;Thriller/Suspense;335451311.0;96202337.0;36438047.0
+Maleficent: Mistress of Evil;10;2019;Walt Disney;Adventure;113929605.0;36948713.0;12368421.0
+The Addams Family;10;2019;United Artists;Adventure;97864733.0;30300007.0;10609804.0
+Zombieland: Double Tap;10;2019;Sony Pictures;Comedy;73118130.0;26803104.0;7972442.0
+21 Bridges;11;2019;STX Entertainment;Thriller/Suspense;28539757.0;9261268.0;3085700.0
+Doctor Sleep;11;2019;Warner Bros.;Horror;31581712.0;14114124.0;3443570.0
+Ford v. Ferrari;11;2019;20th Century Fox;Drama;117624357.0;31474958.0;12006150.0
+Frozen II;11;2019;Walt Disney;Adventure;477373578.0;130263358.0;49174621.0
+Harriet;11;2019;Focus Features;Drama;43082155.0;11676720.0;4644945.0
+Knives Out;11;2019;Lionsgate;Drama;165364060.0;26769548.0;14205180.0
+Last Christmas;11;2019;Universal;Romantic Comedy;35150750.0;11441055.0;3833674.0
+Midway;11;2019;Lionsgate;Action;56846802.0;17897419.0;6173284.0
+Playing with Fire;11;2019;Paramount Pictures;Comedy;44451847.0;12723781.0;4847913.0
+Queen & Slim;11;2019;Universal;Drama;43808310.0;11890490.0;4445300.0
+Terminator: Dark Fate;11;2019;Paramount Pictures;Action;62253077.0;29033832.0;6796187.0
+1917.0;12;2019;Universal;Thriller/Suspense;159227644.0;576216.0;17219352.0
+Bombshell;12;2019;Lionsgate;Drama;31762808.0;319157.0;2684494.0
+Cats;12;2019;Universal;Musical;27166770.0;6619870.0;2180141.0
+Jumanji: The Next Level;12;2019;Sony Pictures;Adventure;316831246.0;59251543.0;20971019.0
+Little Women;12;2019;Sony Pictures;Drama;108095955.0;16755310.0;7696815.0
+Richard Jewell;12;2019;Warner Bros.;Drama;22345542.0;4705265.0;493274.0
+Spies in Disguise;12;2019;20th Century Fox;Adventure;66757013.0;13354798.0;5135635.0
+Uncut Gems;12;2019;A24;Thriller/Suspense;50023780.0;537242.0;3990871.0
+Bad Boys For Life;01;2020;Sony Pictures;Action;204417855.0;62504105.0;22292023.0
+Dolittle;01;2020;Universal;Adventure;77047065.0;21844045.0;8402079.0
+Gretel & Hansel;01;2020;United Artists;Horror;15347654.0;6154007.0;1673680.0
+Like a Boss;01;2020;Paramount Pictures;Comedy;22169514.0;10011272.0;2417613.0
+The Gentlemen;01;2020;STX Entertainment;Action;36471796.0;10651884.0;3977295.0
+The Grudge;01;2020;Sony Pictures;Horror;21216148.0;11404113.0;1070014.0
+The Rhythm Section;01;2020;Paramount Pictures;Thriller/Suspense;5437971.0;2715384.0;593017.0
+The Turning;01;2020;Universal;Horror;15472775.0;6950045.0;1687325.0
+Underwater;01;2020;20th Century Fox;Thriller/Suspense;17291078.0;7008297.0;1885613.0
+Brahms: The Boy II;02;2020;STX Entertainment;Horror;12611536.0;5823006.0;1375303.0
+Downhill;02;2020;Searchlight Pictures;Drama;8287061.0;4622018.0;903714.0
+Fantasy Island;02;2020;Sony Pictures;Horror;26441782.0;12310420.0;2883509.0
+Impractical Jokers: The Movie;02;2020;truTV;Comedy;10466091.0;2607049.0;1141340.0
+Sonic The Hedgehog;02;2020;Paramount Pictures;Adventure;146066470.0;58018348.0;15928731.0
+The Call of the Wild;02;2020;20th Century Studios;Adventure;62342368.0;24791624.0;6798513.0
+The Invisible Man;02;2020;Universal;Horror;64914050.0;28205665.0;7078958.0
+The Photograph;02;2020;Universal;Drama;20578185.0;12181865.0;2244076.0
+Bloodshot;03;2020;Sony Pictures;Action;10021787.0;9176695.0;1092888.0
+I Still Believe;03;2020;Lionsgate;Drama;10410004.0;9103614.0;1135223.0
+Onward;03;2020;Walt Disney;Adventure;61555145.0;39119861.0;6712665.0
+The Hunt;03;2020;Universal;Thriller/Suspense;5812500.0;5304455.0;633860.0
+The Way Back;03;2020;Warner Bros.;Drama;13590514.0;8170315.0;1482062.0
+Scoob!;05;2020;Warner Bros.;Adventure;2188425.0;850000.0;238650.0
+Bill & Ted Face the Music;08;2020;United Artists;Comedy;3439660.0;1125007.0;375099.0
+The New Mutants;08;2020;20th Century Studios;Horror;23855569.0;7037017.0;2601479.0
+Unhinged;08;2020;Solstice Studios;Thriller/Suspense;20831465.0;601032.0;2271697.0
+Words on Bathroom Walls;08;2020;Roadside Attractions;Drama;2542518.0;432968.0;277264.0
+Infidel;09;2020;Cloudburst Entert…;Thriller/Suspense;4051990.0;1384296.0;441874.0
+Tenet;09;2020;Warner Bros.;Action;58504105.0;20001852.0;6329788.0
+The Broken Hearts Gallery;09;2020;Sony Pictures;Romantic Comedy;4066487.0;1126401.0;443455.0
+2 Hearts;10;2020;Freestyle Releasing;Drama;1349284.0;522937.0;147141.0
+Come Play;10;2020;Focus Features;Horror;10475990.0;3119875.0;1036591.0
+Honest Thief;10;2020;Open Road;Thriller/Suspense;14163574.0;;1544555.0
+The Empty Man;10;2020;20th Century Studios;Horror;2995698.0;1310326.0;326684.0
+The War with Grandpa;10;2020;101 Studios;Comedy;21277892.0;3623880.0;2056881.0
+Freaky;11;2020;Universal;Horror;9030855.0;3600355.0;948970.0
+Let Him Go;11;2020;Focus Features;Thriller/Suspense;9358025.0;4000470.0;1019404.0
+The Croods: A New Age;11;2020;Universal;Adventure;58568815.0;9724200.0;3526093.0
+Fatale;12;2020;Lionsgate;Thriller/Suspense;6306897.0;918112.0;336935.0
+Half Brothers;12;2020;Focus Features;Comedy;2241980.0;700160.0;219863.0
+Monster Hunter;12;2020;Sony Pictures;Action;15162470.0;2201269.0;547263.0
+News of the World;12;2020;Universal;Western;12668325.0;2250430.0;405362.0
+Promising Young Woman;12;2020;Focus Features;Black Comedy;6460965.0;719305.0;131753.0
+Wonder Woman 1984;12;2020;Warner Bros.;Action;46801036.0;16701957.0;2509194.0
+The Little Things;01;2021;Warner Bros.;Thriller/Suspense;15342746.0;4705527.0;1673146.0
+The Marksman;01;2021;Open Road;Action;15566093.0;3104204.0;1697501.0
+Judas and the Black Messiah;02;2021;Warner Bros.;Drama;5478009.0;2027076.0;597384.0
+Land;02;2021;Focus Features;Drama;2577830.0;899810.0;281116.0
+Tom and Jerry;02;2021;Warner Bros.;Adventure;46536687.0;14112629.0;5074884.0
+Boogie;03;2021;Focus Features;Drama;4178620.0;1200165.0;455684.0
+Chaos Walking;03;2021;Lionsgate;Action;13287908.0;3775350.0;1449063.0
+Godzilla vs. Kong;03;2021;Warner Bros.;Action;100916094.0;32200000.0;11005027.0
+Nobody;03;2021;Universal;Thriller/Suspense;27568035.0;6820100.0;3006329.0
+Raya and the Last Dragon;03;2021;Walt Disney;Adventure;54723032.0;8502498.0;5967615.0
+Mortal Kombat;04;2021;Warner Bros.;Action;42326031.0;23302503.0;4615707.0
+Separation;04;2021;Open Road;Horror;4509143.0;1800162.0;491727.0
+The Unholy;04;2021;Sony Pictures;Horror;15532137.0;3153456.0;1693799.0
+Voyagers;04;2021;Lionsgate;Thriller/Suspense;3149935.0;1379988.0;343504.0
+A Quiet Place: Part II;05;2021;Paramount Pictures;Horror;160215764.0;47547231.0;17471730.0
+Cruella;05;2021;Walt Disney;Comedy;86103234.0;21496997.0;9389666.0
+Dream Horse;05;2021;Bleecker Street;Drama;2913328.0;794741.0;317702.0
+Finding You;05;2021;Roadside Attractions;Drama;2753985.0;920476.0;300325.0
+Here Today;05;2021;Sony Pictures;Comedy;2807494.0;1042171.0;306161.0
+Spiral;05;2021;Lionsgate;Horror;23216862.0;8750034.0;2531828.0
+Those Who Wish Me Dead;05;2021;Warner Bros.;Thriller/Suspense;7407200.0;2830000.0;807764.0
+Wrath of Man;05;2021;United Artists;Action;27466489.0;8309007.0;2995255.0
+12 Mighty Orphans;06;2021;Sony Pictures Cla…;Drama;3688723.0;251569.0;402259.0
+F9: The Fast Saga;06;2021;Universal;Action;173005945.0;70043165.0;18866515.0
+In the Heights;06;2021;Warner Bros.;Musical;29975167.0;11504710.0;3268830.0
+Peter Rabbit 2: The Runaway;06;2021;Sony Pictures;Adventure;40501717.0;10101066.0;4416763.0
+Spirit Untamed;06;2021;Universal;Adventure;17716215.0;6101050.0;1931975.0
+Zola;06;2021;A24;Drama;4844399.0;1200013.0;528287.0
+Black Widow;07;2021;Walt Disney;Action;183651655.0;80366312.0;20027443.0
+Jungle Cruise;07;2021;Walt Disney;Adventure;116987516.0;35018731.0;12757635.0
+Old;07;2021;Universal;Thriller/Suspense;48276510.0;16854735.0;5264614.0
+Snake Eyes: G.I. Joe Origins;07;2021;Paramount Pictures;Action;28264325.0;13367853.0;3082260.0
+Space Jam: A New Legacy;07;2021;Warner Bros.;Comedy;70592228.0;31053362.0;7698171.0
+The Boss Baby: Family Business;07;2021;Universal;Adventure;57300280.0;16000665.0;6248667.0
+The Forever Purge;07;2021;Universal;Horror;44539245.0;12551220.0;4857061.0
+The Green Knight;07;2021;A24;Adventure;17173321.0;6745121.0;1872772.0
+Candyman;08;2021;Universal;Horror;61186570.0;22001750.0;6672472.0
+Don’t Breathe 2;08;2021;Sony Pictures;Horror;32638038.0;10622473.0;3559219.0
+Free Guy;08;2021;20th Century Studios;Action;121626598.0;28365416.0;13263533.0
+PAW Patrol: The Movie;08;2021;Paramount Pictures;Adventure;40127371.0;13148340.0;4375940.0
+Reminiscence;08;2021;Warner Bros.;Thriller/Suspense;3900193.0;1950793.0;425321.0
+Respect;08;2021;United Artists;Drama;24278399.0;8807513.0;2647589.0
+The Night House;08;2021;Searchlight Pictures;Horror;7100581.0;2859409.0;774327.0
+The Protégé;08;2021;Lionsgate;Action;7446823.0;2908221.0;812085.0
+The Suicide Squad;08;2021;Warner Bros.;Action;55817425.0;26205415.0;6086960.0
+After We Fell;09;2021;Vertical Entertai…;Drama;2170750.0;426457.0;236723.0
+CopShop;09;2021;Open Road;Action;5213243.0;2315638.0;568510.0
+Cry Macho;09;2021;Warner Bros.;Drama;10310734.0;4426161.0;1124398.0
+Dear Evan Hansen;09;2021;Universal;Musical;15002646.0;7442625.0;1636057.0
+Malignant;09;2021;Warner Bros.;Horror;13391791.0;5434620.0;1460392.0
+The Eyes of Tammy Faye;09;2021;Searchlight Pictures;Drama;2404127.0;652358.0;262173.0
+Antlers;10;2021;Searchlight Pictures;Horror;10619670.0;4271346.0;1158088.0
+Dune;10;2021;Warner Bros.;Action;108232338.0;41011174.0;11687693.0
+Halloween Kills;10;2021;Universal;Horror;92002155.0;49404980.0;10032950.0
+Last Night in Soho;10;2021;Focus Features;Thriller/Suspense;10127625.0;4178460.0;1104430.0
+No Time to Die;10;2021;United Artists;Action;160891007.0;55225007.0;17532388.0
+Ron’s Gone Wrong;10;2021;20th Century Studios;Adventure;23009270.0;7300225.0;2509190.0
+The Addams Family 2;10;2021;United Artists;Adventure;56489153.0;17325007.0;6160212.0
+The French Dispatch;10;2021;Searchlight Pictures;Comedy;16124375.0;1348804.0;1742287.0
+The Last Duel;10;2021;20th Century Studios;Drama;10853945.0;4759151.0;1183636.0
+The Many Saints of Newark;10;2021;Warner Bros.;Drama;8237403.0;4651571.0;898299.0
+Venom: Let There be Carnage;10;2021;Sony Pictures;Action;213550366.0;90033210.0;23185282.0
+Belfast;11;2021;Focus Features;Drama;9047410.0;1779410.0;750919.0
+Clifford the Big Red Dog;11;2021;Paramount Pictures;Adventure;48947356.0;16627491.0;5337771.0
+Encanto;11;2021;Walt Disney;Adventure;95924633.0;27206494.0;9883133.0
+Eternals;11;2021;Walt Disney;Action;164870264.0;71297219.0;17960134.0
+Ghostbusters: Afterlife;11;2021;Sony Pictures;Comedy;128885266.0;44008406.0;13345579.0
+House of Gucci;11;2021;United Artists;Drama;53809574.0;14423794.0;5346077.0
+King Richard;11;2021;Warner Bros.;Drama;15061180.0;5406033.0;1606355.0
+Licorice Pizza;11;2021;United Artists;Drama;17005688.0;345157.0;696062.0
+Spencer;11;2021;Neon;Drama;7086632.0;2104767.0;772806.0
+A Journal for Jordan;12;2021;Sony Pictures;Drama;6400032.0;1211089.0;425945.0
+Nightmare Alley;12;2021;Searchlight Pictures;Thriller/Suspense;11296894.0;2811703.0;826624.0
+Sing 2;12;2021;Universal;Adventure;158549695.0;22326230.0;8340584.0
+Spider-Man: No Way Home;12;2021;Sony Pictures;Action;797731501.0;260138569.0;62484708.0
+Stillwater;12;2021;Focus Features;Drama;14465535.0;5188150.0;1577485.0
+The King’s Man;12;2021;20th Century Studios;Action;37176373.0;5915542.0;1773034.0
+The Matrix Resurrections;12;2021;Warner Bros.;Action;37686805.0;10749011.0;3068117.0
+West Side Story;12;2021;20th Century Studios;Musical;38420245.0;10574618.0;3071892.0
+Redeeming Love;01;2022;Universal;Drama;9214020.0;3530180.0;1004800.0
+Scream;01;2022;Paramount Pictures;Horror;81413281.0;30018805.0;8878220.0
+The 355;01;2022;Universal;Thriller/Suspense;14570455.0;4621765.0;1588926.0
+The King’s Daughter;01;2022;Gravitas Ventures;Adventure;1747263.0;723151.0;190541.0
+Blacklight;02;2022;Briarcliff Entert…;Action;9570333.0;3502475.0;1043656.0
+Death on the Nile;02;2022;20th Century Studios;Thriller/Suspense;43696919.0;12891123.0;4765203.0
+Dog;02;2022;United Artists;Comedy;54484581.0;14883928.0;5941611.0
+jackass forever;02;2022;Paramount Pictures;Reality;57326022.0;23154388.0;6251474.0
+Marry Me;02;2022;Universal;Romantic Comedy;22351410.0;7949980.0;2437449.0
+Moonfall;02;2022;Lionsgate;Action;19060660.0;9868997.0;2078588.0
+Studio 666;02;2022;Open Road;Horror;2513963.0;1540543.0;274150.0
+The Cursed;02;2022;LD Entertainment;Horror;4579023.0;1776142.0;499348.0
+Uncharted;02;2022;Sony Pictures;Adventure;126362979.0;44010155.0;13780041.0
+The Batman;03;2022;Warner Bros.;Action;302863177.0;134008624.0;33027609.0
+The Outfit;03;2022;Focus Features;Drama;1649335.0;1499730.0;179862.0
+X;03;2022;A24;Horror;4407750.0;4407750.0;480670.0
